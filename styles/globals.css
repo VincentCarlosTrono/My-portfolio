@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Montserrat, sans-serif, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  scroll-behavior: smooth;
+  transition: all 0.3s;
+  /* border: 1px dashed green; */
+}
+
+.hero {
+  background-size: 911px 681px;
+}
+.secondary-btn:hover {
+  background-image: linear-gradient(to right, #0178cd, #2bf8ff);
+  transform: scale(1.1);
+  box-shadow: 0 12px 8px -3px rgba(0, 0, 0, 0.1);
+  color: white;
+  border: none;
+}
+.secondary3-btn:hover {
+  background-image: linear-gradient(to right, #0178cd, #94d9fb);
+  transform: scale(1.1);
+  box-shadow: 0 12px 8px -3px rgba(0, 0, 0, 0.1);
+  color: white;
+  border: none;
+}
+
+.primary-btn {
+  background-image: linear-gradient(to right, #0178cd, #2bf8ff);
+  color: white;
+  box-shadow: 0 12px 8px -3px rgba(0, 0, 0, 0.1);
+}
+
+.full-btn {
+  background-image: linear-gradient(to right, #31c8fd, #94d9fb);
+  color: white;
+  box-shadow: 0 12px 8px -3px rgba(0, 0, 0, 0.1);
+}
+
+.primary-btn:hover {
+  transform: scale(1.1);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(1rem, 1fr) minmax(1rem, 1200px) minmax(
+      1rem,
+      1fr
+    );
+}
