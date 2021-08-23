@@ -4,24 +4,24 @@
   
     {
       "name": "tasty",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "stack": "React, TypeScript,Sass",
       "img": "/media/tasty.png",
-      "link": "https://edtosoy-tasty.edtosoy.vercel.app/",
+      "link": "https://trono-tasty-food.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Tasty-food",
       "text": ""
     },
    
     {
       "name": "Fruity",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "stack": "React, TypeScript,Sass",
       "img": "/media/fruity.png",
-      "link": "https://edtosoy-fruity.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Fruity-Next-Project",
+      "link": "https://trono-fruity.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Fruity",
       "text": ""
     },
     {
       "name": "sara",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "stack": "Javascript, React, TypeScript, Sass",
       "img": "/media/sara.png",
       "link": "https://edtosoy-sara.edtosoy.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/sara",
@@ -29,9 +29,9 @@
     },
     {
       "name": "pompeo",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "stack": "Javascript, React, TypeScript,Sass, Aos FramerMotion ",
       "img": "/media/pompeo.png",
-      "link": "https://omnifood-project-git-main.edtosoy.vercel.app/",
+      "link": "https://vince-pompeo.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Pompeo",
       "text": ""
     }
