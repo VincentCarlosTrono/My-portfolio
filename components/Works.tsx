@@ -28,14 +28,15 @@ export default function Works() {
             ></div>
             <div className="" data-aos="fade-up" data-aos-duration="1000">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl capitalize my-2">
-                comitted, hard Working, Positve
+                comitted, hard Work, Positve
               </h1>
               <h1 className="text-2xl text-darkBlue sm:text-3xl lg:text-4xl mb-4 font-bold ">
                 Check Out My Portfolio
               </h1>
               <p className=" text-sm sm:text-base text-gray-700 ">
-                i always comitted to my job and i have attitude that i am not
-                leaving my computer when my task isn`&apos;`t done yet.
+                I am committed to everything I am doing because I believe that
+                if you are committed to do that thing you can create something
+                unique and make that project special without noticing it.
               </p>
               <Link href="/projects" passHref>
                 <button className="py-2 sm:py-3 px-6 mt-5 sm:mt-8 rounded-full secondary3-btn border-2 border-lightBlue text-lightBlue   ">

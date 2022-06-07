@@ -14,15 +14,23 @@ export default function Hero() {
             a Web Developer
           </h1>
           <p className=" sm:text-base mb-2  text-gray-300 max-w-md">
-            Located at manila, philippines i started at website development
-            since 2020 i made so many projects that makes me proud. <br />
+            Located in Manila, Philippines, I started at website development in
+            2020. I made so many projects that makes me proud. <br />
           </p>
           <p className="sm:text-base  text-gray-300  max-w-md">
-            Website development is a kind of job that you need time, focus and
-            especially hard work, being web developer make me happy because
-            it`&apos;`s my dream ever since so i am willing to pursue my dream
-            by creating a wonderful projects and also i am willing to learn
-            anytime to make an exceptional website
+            I have 2 years experience as a college student from the Philippines.
+            I am a Passer of CSS NCI and NCII at TESDA and I also have knowledge
+            in HTML, JavaScript and basic knowledge in C++, I am an active youth
+            volunteer in my community. And always dedicated to attending the
+            leadership program in my community so I am experienced on how to be
+            a good leader.
+          </p>
+          <p className="sm:text-base  text-gray-300  max-w-md">
+            Website development is a kind of job that requires time, focus and
+            especially hard work. Being a web developer makes me happy because
+            it`s my dream ever since, so I am willing to pursue my dream by
+            creating wonderful projects and also I am willing to learn anytime
+            to make an exceptional website.
           </p>
           <div className="md:flex items-center justify-between max-w-sm gap-4">
             <Link href="https://github.com/brixx21/resume/raw/master/EdTosoy-Developer-Resume.pdf">

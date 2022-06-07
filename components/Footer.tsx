@@ -10,7 +10,7 @@ export default function Footer() {
       sub1: ["Home", "/#"],
       sub2: ["Portfolio", "/#Portfolio"],
       sub3: ["About", "/#About"],
-      sub4: ["Blog", "/#"],
+      sub4: ["Blog", "https://www.blogger.com/blog/posts/2215800135533907508"],
       sub5: ["Get In Touch", "/#Get-In-Touch"],
     },
     {
