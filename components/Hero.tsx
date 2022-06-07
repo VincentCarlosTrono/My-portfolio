@@ -18,14 +18,6 @@ export default function Hero() {
             2020. I made so many projects that makes me proud. <br />
           </p>
           <p className="sm:text-base  text-gray-300  max-w-md">
-            I have 2 years experience as a college student from the Philippines.
-            I am a Passer of CSS NCI and NCII at TESDA and I also have knowledge
-            in HTML, JavaScript and basic knowledge in C++, I am an active youth
-            volunteer in my community. And always dedicated to attending the
-            leadership program in my community so I am experienced on how to be
-            a good leader.
-          </p>
-          <p className="sm:text-base  text-gray-300  max-w-md">
             Website development is a kind of job that requires time, focus and
             especially hard work. Being a web developer makes me happy because
             it`s my dream ever since, so I am willing to pursue my dream by
@@ -33,7 +25,7 @@ export default function Hero() {
             to make an exceptional website.
           </p>
           <div className="md:flex items-center justify-between max-w-sm gap-4">
-            <Link href="https://github.com/brixx21/resume/raw/master/EdTosoy-Developer-Resume.pdf">
+            <Link href="https://docs.google.com/document/d/1OYaMWgQAUc3xZXUWXz0AAjYTzLH7jSTJxn3Ty_62b10/edit">
               <a target="_blank" rel="noopener noreferrer">
                 <button className="py-2 sm:py-3 px-6 mt-5 sm:mt-8  rounded-full primary-btn  ">
                   Download CV
