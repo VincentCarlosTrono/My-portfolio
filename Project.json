@@ -8,19 +8,27 @@
       "img": "/media/christmas.png",
       "link": "https://christmas-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Christmas-Website",
-      "text": "A Christmas decorations shop."
+      "text": "A Christmas Decorations Shop."
     },
    
     {
       "name": "Fruity",
       "stack": "React, TypeScript,Sass",
       "img": "/media/fruity.png",
-      "link": "https://trono-fruity.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Fruity",
-      "text": ""
+      "link": "https://my-fruity.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Fruity-app",
+      "text": "Unique Seller Of Real Fruit Extract Juices "
     },
     {
-      "name": "sara",
+      "name": "Tasty",
+      "stack": "Javascript, React, Sass",
+      "img": "/media/sara.png",
+      "link": "https://tasty-app-gamma.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Tasty-app",
+      "text": "An Exclusive Online Resto"
+    },
+    {
+      "name": "Sara",
       "stack": "Javascript, React, TypeScript, Sass",
       "img": "/media/sara.png",
       "link": "https://edtosoy-sara.edtosoy.vercel.app/",
@@ -28,7 +36,7 @@
       "text": ""
     },
     {
-      "name": "pompeo",
+      "name": "Pompeo",
       "stack": "Javascript, React, TypeScript,Sass, Aos FramerMotion ",
       "img": "/media/pompeo.png",
       "link": "https://vince-pompeo.vercel.app/",
