@@ -3,12 +3,12 @@
   "data": [
   
     {
-      "name": "tasty",
-      "stack": "React, TypeScript,Sass",
-      "img": "/media/tasty.png",
-      "link": "https://trono-tasty-food.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Tasty-food",
-      "text": ""
+      "name": "Christmas",
+      "stack": "React, TypeScript, Tailwind",
+      "img": "/media/christmas.png",
+      "link": "https://christmas-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Christmas-Website",
+      "text": "A Christmas decorations shop."
     },
    
     {
