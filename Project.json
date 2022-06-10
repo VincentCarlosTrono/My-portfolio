@@ -4,11 +4,28 @@
   
     {
       "name": "Christmas",
-      "stack": "React, TypeScript, Tailwind",
+      "stack": "React, TypeScript, Tailwind, Aos",
       "img": "/media/christmas.png",
       "link": "https://christmas-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Christmas-Website",
       "text": "A Christmas Decorations Shop."
+    },
+    
+    {
+      "name": "Plantex",
+      "stack": "React, TypeScript,Tailwind, Aos",
+      "img": "/media/plantex.png",
+      "link": "https://plantex-website-ten.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Plantex-Website",
+      "text": "One of the most quality and famous online plant shop in peru."
+    },
+    {
+      "name": "Delivery Landing Web",
+      "stack": "React, TypeScript, Tailwind",
+      "img": "/media/delivery.png",
+      "link": "https://delivery-landing-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Delivery-Landing-Website",
+      "text": "The most trusted and fastest delivery app."
     },
    
     {
@@ -19,14 +36,6 @@
       "repo": "https://github.com/VincentCarlosTrono/Fruity-app",
       "text": "Unique Seller Of Real Fruit Extract Juices."
     }, 
-     {
-      "name": "Plantex",
-      "stack": "React, TypeScript,Tailwind, Aos FramerMotion",
-      "img": "/media/plantex.png",
-      "link": "https://plantex-website-ten.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Plantex-Website",
-      "text": "One of the most quality and famous online plant shop in peru."
-    },
     {
       "name": "Tasty",
       "stack": "Javascript, React, Sass",
@@ -45,7 +54,7 @@
     },
     {
       "name": "Pompeo",
-      "stack": "Javascript, React, TypeScript,Sass, Aos FramerMotion ",
+      "stack": "Javascript, React, TypeScript,Sass, Aos",
       "img": "/media/pompeo.png",
       "link": "https://vince-pompeo.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Pompeo",
