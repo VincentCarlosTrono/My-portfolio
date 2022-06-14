@@ -62,5 +62,13 @@
       "repo": "https://github.com/VincentCarlosTrono/Pompeo",
       "text": ""
     }
+    {
+      "name": "Sara",
+      "stack": "React, TypeScript, Sass",
+      "img": "/media/sara.png",
+      "link": "https://sara-ecommerce.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/sara",
+      "text": ""
+    }
   ]
 }
