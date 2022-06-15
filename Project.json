@@ -11,6 +11,22 @@
       "repo": "https://github.com/VincentCarlosTrono/coffee",
       "text": "The Most Quality And Famous Coffee Shop Around The World."
     },
+    {
+      "name": "Plantex",
+      "stack": "React, TypeScript,Tailwind, Aos",
+      "img": "/media/plantex.png",
+      "link": "https://plantex-website-ten.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Plantex-Website",
+      "text": "One of the most quality and famous online plant shop in peru."
+    },
+    {
+      "name": "Holux",
+      "stack": "React, TypeScript,Tailwind, Aos",
+      "img": "/media/holux.png",
+      "link": "https://holux-real-estate.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
+      "text": "The Most Trusted Real Estate Website."
+    },
   
     {
       "name": "Christmas",
@@ -21,14 +37,7 @@
       "text": "A Christmas Decorations Shop."
     },
     
-    {
-      "name": "Plantex",
-      "stack": "React, TypeScript,Tailwind, Aos",
-      "img": "/media/plantex.png",
-      "link": "https://plantex-website-ten.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Plantex-Website",
-      "text": "One of the most quality and famous online plant shop in peru."
-    },
+    
     {
       "name": "Delivery Landing Web",
       "stack": "React, TypeScript, Tailwind",
