@@ -25,7 +25,7 @@ export default function Hero() {
             to make an exceptional website.
           </p>
           <div className="md:flex items-center justify-between max-w-sm gap-4">
-            <Link href="https://docs.google.com/document/d/1OYaMWgQAUc3xZXUWXz0AAjYTzLH7jSTJxn3Ty_62b10/edit">
+            <Link href="https://github.com/VincentCarlosTrono/Resume/blob/main/My-Resume.pdftps://docs.google.com/document/d/1OYaMWgQAUc3xZXUWXz0AAjYTzLH7jSTJxn3Ty_62b10/edit">
               <a target="_blank" rel="noopener noreferrer">
                 <button className="py-2 sm:py-3 px-6 mt-5 sm:mt-8  rounded-full primary-btn  ">
                   Download CV
