@@ -10,6 +10,14 @@
       "link": "https://coffee-zeta.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/coffee",
       "text": "The Most Quality And Famous Coffee Shop Around The World."
+    }, 
+    {
+      "name": "Travel",
+      "stack": "React, React-Router-Dom, React-Player, TypeScript, Tailwind",
+      "img": "/media/travel.png",
+      "link": "https://vincent-travel-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Travel-Website.git",
+      "text": "One Of The Unique And Famous Hotels Around The World."
     },
     {
       "name": "Plantex",
@@ -46,7 +54,7 @@
       "repo": "https://github.com/VincentCarlosTrono/Delivery-Landing-Website",
       "text": "The most trusted and fastest delivery app."
     },
-   
+    
     {
       "name": "Fruity",
       "stack": "React, TypeScript,Sass",
